@@ -266,3 +266,30 @@
 3. Desmund (Dragon) 2022, Raquel (Pegacorn) 2020
 4. Cyan (Whale) 2021, Eunice (Unicorn) 2020
 5. Abby (Octopus) 2020, Cornelia (Caterpillar) 2021, Edward (Eagle) 2019, Evelyn (Elephant) 2019, Janet (Jellyfish) 2020, Kervena (Mushroom) 2021
+6. Brinkley (Bunny) 2021, Heather (Dragonfly) 2020
+7. Charlize (Cockatiel) 2020, Ferko (Shoebill) 2021, Hobart (Hamster) 2021, Lindsay (Leopard) 2020
+8. Deniz (Pelican) 2021
+9. Basma (Whooping Crane) 2021, Hallie (Narwhal) 2020
+10. Belana (Cow) 2021, Jeanne (Octopus) 2019, Laura (Cat) 2020, Sharde (Fox) 2020, Tajo (Tasmanian Devil) 2021
+11. Xandra/Alex (Crab) 2020
+12. Cataleya (Koala) 2020, Evie (Narwhal) 2020, Regna (Corgi-Dog) 2020
+13. Ellixsa (Butterfly) 2021, Kesla (Cat) 2021, Toni (Snow Leopard) 2020, Yancy (Gnome) 2021
+14. Kendra (Fox) 2020
+15. Caryl (Cat) 2021, Rhiannon (Fox) 2020
+16. Anastasia (Axolotl) 2020, Gisla (Hamsa Hand) 2021, Legacy (Bunnycorn) 2020, Naomi (Narwhal) 2020
+17. Anya (Caticorn Mermaid) 2020, Ashlyn (Cheetah Fairy) 2020, Emela (Lamb) 2021, Grayson (Dinosaur) 2020, Hodge (Buddha) 2021
+18. Cailey (Crab) 2020, Crissie (Lightbulb) 2021, Taryn (Sloth) 2020
+19. Elodie (Octopus) 2021, Ronnie (Cow) 2020, Rosie (Pig) 2019, Steele (Whale SHark) 2021
+20. Orphie (Octopus) 2021
+21. Atoosa (Tiger) 2021
+22. none for now!
+23. Oxlexa (Pear) 2021
+24. Cortex (Caterpillar) 2021, Farrah (Dog) 2020, Grant (Goat) 2019, Jayda (Jellyfish) 2019, Oriam (Cow) 2021
+25. Babs (Blue Jay) 2020
+26. Eloise (Cat) 2020
+27. Austin (avocado) 2019, Jarik (Dragon) 2021
+28. none for now!
+29. Elina (Peacock) 2020
+30. none for now!
+
+**October**
