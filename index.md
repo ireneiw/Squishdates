@@ -229,3 +229,40 @@
 
 **August**
 1. Patty (Cow) 2017
+2. none for now!
+3. Cordess (Caticorn) 2021
+4. Barika (Bearded Dragon) 2021
+5. Candess (Cow) 2021
+6. none for now!
+7. none for now!
+8. none for now!Brody (Dinosaur) 2018
+9. Lucia (Lemur) 2019, Paco (Parrot) 2019
+10. none for now!
+11. Aleka (Axolotl) 2021
+12. Nefen (Gnome) 2021
+13. none for now!
+14. none for now!
+15. Caedia (Cow) 2021
+16. Cedrick (Chick) 2019
+17. none for now!
+18. Palmer (Goat) 2021, Triston (Bird) 2021
+19. Wilfred/Calton (Highland Cow) 2021, Jettward (Poodle) 2021
+20. Sabino (Sugar Glider) 2021
+21. none for now!
+22. none for now!
+23. none for now!
+24. none for now!
+25. Ferdie (Frog) 2021, Naddie (Turtle) 2021
+26. none for now!
+27. Justine (Chick) 2021
+28. Calynda (Cow) 2021
+29. Havin (Bee) 2021
+30. Jarrell (DInosaur) 2021
+31. Syana (Fox) 2021
+
+**September**
+1. Briannika (Peacock) 2021, Dexter (Dragon) 2018, Dobrilla (Bigfoot) 2021, Elsa (Lamb) 2018, Jake (Unicorn) 2018, Violet (Octopus) 2018
+2. Brock (Bulldog) 2018, Brody (Dinosaur) 2018, Carmen (Cat) 2020
+3. Desmund (Dragon) 2022, Raquel (Pegacorn) 2020
+4. Cyan (Whale) 2021, Eunice (Unicorn) 2020
+5. Abby (Octopus) 2020, Cornelia (Caterpillar) 2021, Edward (Eagle) 2019, Evelyn (Elephant) 2019, Janet (Jellyfish) 2020, Kervena (Mushroom) 2021
