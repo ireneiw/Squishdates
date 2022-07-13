@@ -196,4 +196,36 @@
 
 **July**
 1. Aimee (Chick) 2018, Aina (Unicorn) 2021, Alizeh (Fox) 2021, Charlotte (Cat) 2021, Fern (Fox) 2017, Kyla (Elephant) 2018, Oliver (Cat) 2017, Pam (Pug-Dog) 2018, PJ (Panda) 2018, Seraphina (Unicorn) 2017
-2.
+2. Ramona (Red Panda) 2019, Winnie (Walrus) 2019
+3. none for now!
+4. none for now!
+5. Canda (Fish) 2021
+6. Livvy (Starfish) 2021, Orzella (Octopus) 2021
+7. Belton (Lemon Bear) 2021
+8. Daja (Dolphin) 2019, Dustin (Dalmation-Dog) 2020, Farryn (Fawn) 2020, Ova (Walrus) 2021
+9. Abeline (Ostrich) 2021, Colin (Cow) 2021, Nicole (Caticorn) 2020
+10. Andres (Sheltie-Dog) 2019, Angie (Shiba-Dog) 2019, Mario (German Sheperd-Dog) 2019
+11. none for now!
+12. Aron (Gorilla) 2021, Berit (Moth) 2021, Robb (Orangutan) 2021, Thompson (Armadillo) 2021
+13. Adabelle (Strawberry Frog) 2021, Amina (Squirrel) 2020, Archie (Axolotl) 2021, Squaz (Mouse) 2021
+14. Adin (Space Game) 2021, Casja (Walkman) 2021, Galia (Gameboy) 2021, Maline (Capsule Machine) 2021, Rada (Claw Machine) 2021, Tadita (Cell Phone) 2021
+15. Aicha (Seashell) 2021, Bertwin (Bearded Dragon) 2021, Casmir (Husky-Dog) 2021, Ceba (Peacock) 2021, Miranda (Owl) 2020, Bertwin (Bearded Dragon) 2021
+16. Dabria (Donut) 2021, Deeto (African Wild Dog) 2021, Talib (Pterodactyl) 2021
+17. Chip (Beaver) 2019
+18. none for now!
+19. Bethuna (Mystical Creature) 2021, Delphine (Axolotl) 2021, Kachina (Kiwi) 2021, Myrna (Griffon) 2021, Zaya (Bear) 2021
+20. Caedyn (Cow) 2021, Celenia (Cat) 2020, Delroy (Dog) 2021
+21. Phoenix (Unicorn) 2020
+22. Obu (Frog) 2021
+23. Balia (Butterfly) 2021, Bronte (Chameleon) 2021, Calais (Chameleon) 2021, Della (Duck) 2021, Kaelea (Koala) 2021, Mary (Octopus) 2020
+24. none for now!
+25. none for now!
+26. Evangelica (Cow) 2021
+27. Bambalina (Cat) 2021
+28. Andreina (Butterfly) 2021
+29. Chloeyana (Dog) 2021, Chuy (Dog) 2021
+30. Varity (Husky-Dog) 2021
+31. none for now!
+
+**August**
+1. Patty (Cow) 2017
