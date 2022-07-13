@@ -54,3 +54,12 @@
 18. none for now!
 19. none for now!
 20. Callista (Ghost Caticorn) 2020, Casey (Candy Corn Witch) 2020, Scrapper (Skeleton Dog) 2020, Stix (Skeleton) 2020, Teery (Turkey) 2020, Vince (Vampire) 2020, Vlad (Vampire) 2020, Wade (Werewolf) 2020, Whitney (Witch) 2020, Wilma (Witch) 2020, Winnie (Witch) 2020
+21. none for now!
+22. none for now!
+23. none for now!
+24. none for now!
+25. Serene (Squirrel) 2021
+26. none for now!
+27. none for now!
+28. none for now!
+29. none for now!
