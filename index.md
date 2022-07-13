@@ -128,3 +128,38 @@
 28. none for now!
 29. Nancy (Cat) 2021
 30. none for now!
+
+**May**
+1. Prince (Pug-Dog) 2020
+2. none for now!
+3. none for now!
+4. none for now!
+5. none for now!
+6. none for now!
+7. none for now!
+8. none for now!
+9. none for now!
+10. none for now!
+11. Caparinne (Bigfoot) 2021
+12. none for now!
+13. Mark (Monkey) 2019, Nathan (Cat) 2019, Ryan (Dog) 2019, Silvia (Unicorn) 2019, Zobey (Octopus) 2019
+14. Misty (Mouse) 2019
+15. none for now!
+16. Freddie (Zebra) 2019, Hudson (Unicorn) 2021, Renate (Koala) 2021
+17. none for now!
+18. none for now!
+19. Buffy (Bat) 2020
+20. none for now!
+21. none for now!
+22. Maggie (Stingray) 2019
+23. none for now!
+24. none for now!
+25. none for now!
+26. Mauricio (Octopus) 2021, Sydney (Mushroom) 2021
+27. Amalie (Snake) 2021
+28. Azizi (Dragon) 2021, Everett (Guinea Pig) 2021, Kalina (Cow) 2021, Reshma (Cow) 2021
+29. none for now!
+30. none for now!
+31. none for now!
+
+**June**
