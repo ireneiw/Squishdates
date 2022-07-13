@@ -293,3 +293,68 @@
 30. none for now!
 
 **October**
+1. Lamont (French Bulldog) 2021
+2. Kinsley (Llama Pegacorn) 2020, Rida (Butterfly) 2021
+3. Louden (Goat) 2021
+4. Rachel (Mushroom) 2021
+5. Elda (Ostrich) 2020, Herb (Turtle) 2020
+6. Anca (Unicorn) 2020, Florent (Axolotl) 2021, Luvinia (Dragonfly) 2021
+7. Farice (Ferret) 2021
+8. Chuey (T-rex) 2020, Donnan (Dodo Bird) 2021
+9. Bobzi (Dog) 2021
+10. Maurice (Moose) 2019, Rondah (Highland Cow) 2021, Willy (Wolf) 2019
+11. Antoni (Turtle) 2020, Charity (Chicken) 2019, Zelma (Hippo) 2021
+12. Althea (Axolotl) 2021, Gerard (Bird) 2021, Maritza (Cactus) 2020
+13. Bridgie (Tulip) 2020, Caroleena (Carrot) 2020, Isis (Seal) 2020, Luther (Shark) 2020
+14. Shannon (Ice Cream) 2020
+15. none for now!
+16. none for now!
+17. Leonard (Lion) 2019
+18. none for now!
+19. none for now!
+20. Vinny (Turtle) 2019
+21. Melani (Fox) 2020, Rolland (Panda) 2021
+22. Gordon (Shark) 2018, Lucille (Seal) 2018, Matt (Manatee) 2018, Sunny (Bee) 2018, Xiomara (Panther) 2020
+23. Fletcher (Pterodactyl) 2020
+24. Giovana (Bunny) 2021, Makena (Unicorn Mermaid) 2020
+25. Chet (Iguana) 2020
+26. none for now!
+27. Simone (Shrimp) 2020
+28. none for now!
+29. Armie (Highland Cow) 2021, Cazlan (Cardinal) 2020, Sayed (Bunny) 2021
+30. Cherish (Elephant) 2020, Corinna (Cat) 2020, Ludwig (Frog) 2020
+31. none for now!
+
+**November**
+1. Tally (Tabby-Cat) 2020
+2. Aquitaine (Pig) 2021, Griella (Cow) 2021, Keith (Dragon) 2020, Stevon (Dog) 2021
+3. Caeli (Cat) 2020, Eyk (Dragon) 2021, Molly (Mushroom) 2021, Regz (Dog) 2021, Shena (Dog) 2020, Xavier (Mushroom) 2021
+4. Imogen (Owl) 2020
+5. none for now!
+6. none for now!
+7. Gregory (Goat) 2019, Jason (Donkey) 2019, Winona (Llama Pegacorn) 2020
+8. Arnel (Popcorn) 2021, DeeDee (Seahorse) 2021, Halton (Stingray) 2021, Limell (Frog) 2021, Melly (Milk) 2021, Mony (Butterfly) 2021, Neeona (Cookie) 2021, Winsey (Watermelon) 2021
+9. Bubba (Cow) 2020, Naya (Fox) 2020
+10. Aqua (Sloth) 2020
+11. none for now!
+12. Dandii (Fish) 2021, Felton (Cat) 2021, Francis (Lion) 2018, Irving (Rhino) 2018, Magela (Crab) 2020, Onica (Turtle) 2021
+13. Ben (Dinosaur) 2017, Chasmen (Axolotl) 2021, Owen (Owl) 2017
+14. Chienda (Mammoth) 2021, Erika (Cat) 2020
+15. Bijan (Dumbo Octopus) 2022, Forina (Jellyfish) 2021, Mollie (Unicorn) 2020, Swish (Swordfish) 2021
+16. Galci (Raccoon) 2021, Greggor (Moose) 2021, Kieli (Antelope) 2021, Solina (Owl) 2021, Zan (Gnome) 2020, Zaylee (Bigfoot) 2020
+17. Inez (Pandacorn) 2020, Louisa (Penguin) 2020, Luna (Penguin) 2017, Martina (Fish) 2020, Olga (Octopus) 2020, Rutabaga (Caterpillar) 2020 
+18. Edmund (Pterodactyl) 2020, Rocio (Dinosaur) 2020, Sinclair (Avocado Toast) 2020, Tank (Shark) 2020
+19. Atlas (Unicorn) 2020, Jackie (Tulip) 2020, Jeannie (Tulip) 2020, Leeland (Lime) 2020, Leticia (Lemon) 2020, Malcom (Mushroom) 2020 
+20. Bernardo (Burrito) 2020, Davina (Octocorn) 2020, Grecia (Pegacorn) 2020, Petra (Pig) 2019
+21. Easton (Anglerfish) 2021, Jacinda (Poodle-Dog) 2021, Jett (Dragon) 2020, Luxe (Caticorn) 2020, Maeve (Manatee) 2021, Oshun (Octopus) 2021, Sachie (Whale Shark) 2021
+22. Dabney (Fox) 2021, Esmina (Fairy) 2020
+23. Drow (Dragon) 2021, Gala (Griffon) 2021, Ivanna (Chick) 2020, Yara (Yeti) 2021
+24. Caylee (Caticorn) 2021, Haizley (Hippocorn) 2021, Luxmen (Dragon) 2021
+25. Jerome (Triceratops) 2021
+26. Merritt (Bunnycorn) 2020
+27. Brizla (Frappuccino) 2021
+28. none for now!
+29. none for now!
+30. Chrissy (Dogicorn) 2021, Diana (Butterfly) 2021, Vas (Frog) 2021
+
+**December**
