@@ -98,3 +98,33 @@
 31. Norma (Gnome) 2020
 
 **April**
+1. Norman (Gnome) 2020
+2. Chesa (Peppermint) 2021
+3. none for now!
+4. Melvin (Monkey) 2019
+5. Arlie (Dinosaur) 2021
+6. none for now!
+7. none for now!
+8. none for now!
+9. none for now!
+10. none for now!
+11. none for now!
+12. Brooke (Polar Bear)
+13. none for now!
+14. Denton (Chameleon) 2021
+15. Avery (Mallard Duck) 2019, Milanda (Donkey) 2021, Sabine (Fox) 2021, Tomara/Louisa (Penguin) 2021, Walker (Goat) 2019, Zinx (Alien) 2021
+16. Kelina (Koala) 2021
+17. Connor (Cow) 2017, Mila (Elephant) 2017, Milly (Monkey) 2017, Sam (Dog) 2017, Stanley (Panda) 2021
+18. none for now!
+19. none for now!
+20. Glena (Eggplant) 2021, Sevda (Boba) 2021
+21. Bowie (Hedgehog) 2021, Hila (Hedgehog) 2021
+22. Felexine (Fox) 2021, Rodina (Unicorn) 2021, Ruthie (Unicorn) 2021
+23. Raisey (Ramen) 2021, Sofia (Unicorn) 2019
+24. none for now!
+25. none for now!
+26. Joxtine (Cat) 2021, Noodles (Chick) 2021
+27. Alandy (Frog) 2021
+28. none for now!
+29. Nancy (Cat) 2021
+30. none for now!
