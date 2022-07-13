@@ -358,3 +358,34 @@
 30. Chrissy (Dogicorn) 2021, Diana (Butterfly) 2021, Vas (Frog) 2021
 
 **December**
+1. Bongo (Pug-Dog) 2020, Lola (Unicorn) 2017, Shantira (Pterodactyl) 2020, Tina (Tiger) 2017, Will (Dragon) 2020
+2. Cecy (Bunny) 2020
+3. none for now!
+4. none for now!
+5. none for now!
+6. none for now!
+7. none for now!
+8. Shoni (Dodo Bird) 2021
+9. none for now!
+10. Cannon (Candy Corn) 2018, Warner (Elephant) 2020
+11. Phillip (Horse) 2020
+12. Vickie (Fox) 2020
+13. none for now!
+14. none for now!
+15. none for now!
+16. Alexie (Cow) 2021, Carlos (Crab) 2019, Rie (Otter) 2021
+17. none for now!
+18. Bri (Owl) 2020, Honeydew (Chameleon) 2020
+19. Mitzie (Mermaid Caticorn) 2020
+20. Daxxon (Alien) 2020, Ditty (Lemur) 2021, Miralou (Snail) 2021, Rudy (Rocket) 2020
+21. Roman (Earth) 2020, Schifra (Squirrel) 2021, Zuzana (Planet) 2020
+22. Archer (Alligator) 2020, Boulder (Moon) 2020, Cruz (Sun) 2020, Estrella (Star) 2020
+23. Aziza (Stingray) 2020, Irina (Axolotl) 2020, Lilou (Seal) 2020, Pilar (Grasshopper) 2020, Quinn (Kangaroo) 2019, Rocket (Hammerhead Shark) 2020
+24. none for now!
+25. none for now!
+26. none for now!
+27. none for now!
+28. Svetlana (Caticorn Mermaid) 2020
+29. Barnabus (Owl) 2020, Barnes (Turtle) 2020, Fania (Owl) 2020, Halima (Fox) 2020, Joaquin (Dragon) 2020, Shay (Squid) 2020
+30. Araminta (Caticorn) 2020, Sunshine (Rainbow) 2020, Vera (Rainbow) 2020
+31. none for now!
