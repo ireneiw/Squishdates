@@ -4,7 +4,7 @@
 1. none for now!
 2. none for now!
 3. none for now!
-4. Karina (Cat) 2018
+4. ![Karina (Cat) 2018](https://squishmallowsquad.fandom.com/wiki/Karina)
 5. none for now!
 6. Fenella (Unicorn) 2021, Tula (Bear) 2021, Vanessa (Red Panda) 2021
 7. Amor (Unicorn) 2021, Baiden (Dragon) 2021, Maisha (Beaver) 2021
