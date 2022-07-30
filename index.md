@@ -1,6 +1,6 @@
-‹script type="text/Javascript">
+‹script type="text/JavaScript">
 //courtesy of BoogieJack.com
-function killcopy(e){
+function killCopy(e){
 return false
 }
 function reEnable){
@@ -8,7 +8,7 @@ return true
 }
 document.onselectstart=new Function ("return false")
 if (window.sidebar) {
-document. onmousedown=killcopy
+document.onmousedown=killcopy
 document.onclick=reEnable
 }
 </script>
