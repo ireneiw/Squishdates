@@ -1,3 +1,14 @@
+‹script type="text/Javascript">
+//courtesy of BoogieJack.com
+function killcopy(e)(
+return false
+function reEnable){
+return true
+document.onselectstart=new Function ("return false")
+if (window.sidebar) (
+document. onmousedown=killcopy
+document.onclick=reEnable
+</script>
 # Squish Dates
 ## All the known squish dates! There may be some repeats because of factory bio errors!
 **ALL WEBSITE LINKS CREDITED TO THE SQUISHMALLOWS WIKI FANDOM MASTER LIST!!!**
