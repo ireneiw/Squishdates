@@ -7,8 +7,8 @@
 3. none for now!
 4. [Karina (Cat) 2018](https://squishmallowsquad.fandom.com/wiki/Karina)
 5. none for now!
-6. [Fenella (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Fenella), [Tula (Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Tula0, [Vanessa (Red Panda) 2021](https://squishmallowsquad.fandom.com/wiki/Vanessa)
-7. [Amor (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Amor), [Baiden (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Baiden], [Maisha (Beaver) 2021](https://squishmallowsquad.fandom.com/wiki/Maisha)
+6. [Fenella (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Fenella), [Tula (Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Tula), [Vanessa (Red Panda) 2021](https://squishmallowsquad.fandom.com/wiki/Vanessa)
+7. [Amor (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Amor), [Baiden (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Baiden), [Maisha (Beaver) 2021](https://squishmallowsquad.fandom.com/wiki/Maisha)
 8. [Carmella (Toucan) 2021](https://squishmallowsquad.fandom.com/wiki/Carmella), [Deidre (Cupcake) 2021](https://squishmallowsquad.fandom.com/wiki/Diedre), [Gustavus (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Gustavus)
 9. [King (Stingray) 2021](https://squishmallowsquad.fandom.com/wiki/King)
 10. none for now!
