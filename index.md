@@ -165,36 +165,36 @@
 31. none for now!
 
 **June**
-1. Katya (Koala) 2020, Octavia (Octopus) 2020
-2. Adila (Antelope) 2021, Akina (Axolotl) 2021, Camilo (Chinchilla) 2021, Lilibet (Duck) 2021, Pedi (Octopus) 2021, Sakina (Mushroom) 2021
-3. Bindy (Walrus) 2021, Rahima (Camel) 
-4. Boulder (Moon) 2021
+1. [Katya (Koala) 2020](https://squishmallowsquad.fandom.com/wiki/Katya), [Octavia (Octopus) 2020](https://squishmallowsquad.fandom.com/wiki/Octavia)
+2. [Adila (Antelope) 2021](https://squishmallowsquad.fandom.com/wiki/Adila), [Akina (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Akina), [Camilo (Chinchilla) 2021](https://squishmallowsquad.fandom.com/wiki/Camilo), [Lilibet (Duck) 2021](https://squishmallowsquad.fandom.com/wiki/Lilibet), [Pedi (Octopus) 2021](https://squishmallowsquad.fandom.com/wiki/Pedi), [Sakina (Mushroom) 2021](https://squishmallowsquad.fandom.com/wiki/Sakina)
+3. [Bindy (Walrus) 2021](https://squishmallowsquad.fandom.com/wiki/Bindy), [Rahima (Camel) 2021](https://squishmallowsquad.fandom.com/wiki/Rahima)
+4. [Boulder (Moon) 2021](https://squishmallowsquad.fandom.com/wiki/Boulder)
 5. none for now!
 6. none for now!
-7. Eric (Blobfish) 2021, Gracia (Meerkat) 2021, Hectico (Cobra) 2021, Marianovella (Narwhal) 2021, Misko (Water Bear) 2021, Oz (Succulent) 2021, Samanthé (Scorpion) 2021
-8. Andrew (Jackalope) 2021, Josephine (Yeti) 2021
-9. Abena (Succulent) 2021, Afiyah (Succulent) 2021, Bryce (Dog) 2021, Candace (Corgi-Dog) 2020, Kate (Llamacorn) 2021
-10. Danya (Bunny) 2021, Kristina (Cat) 2021Alizeh (Fox) 2021
-11. Amala (Axolotl) 2021, Kamili (Sea Pig) 2021, Norbu (Octopus) 2021, Tenzing (Sea Bunny) 2021
+7. [Eric (Blobfish) 2021](https://squishmallowsquad.fandom.com/wiki/Eric), [Gracia (Meerkat) 2021](https://squishmallowsquad.fandom.com/wiki/Gracia), [Hectico (Cobra) 2021](https://squishmallowsquad.fandom.com/wiki/Hectico), [Marianovella (Narwhal) 2021](https://squishmallowsquad.fandom.com/wiki/Marianovella), [Misko (Water Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Misko), [Oz (Succulent) 2021](https://squishmallowsquad.fandom.com/wiki/Oz), [Samanthé (Scorpion) 2021](https://squishmallowsquad.fandom.com/wiki/Samanthé)
+8. [Andrew (Jackalope) 2021](https://squishmallowsquad.fandom.com/wiki/Andrew), [Josephine (Yeti) 2021](https://squishmallowsquad.fandom.com/wiki/Josephine)
+9. [Abena (Succulent) 2021](https://squishmallowsquad.fandom.com/wiki/Abena), [Afiyah (Succulent) 2021](https://squishmallowsquad.fandom.com/wiki/Afiyah), [Bryce (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Bryce), [Candace (Corgi-Dog) 2020](https://squishmallowsquad.fandom.com/wiki/Candace), [Kate (Llamacorn) 2021](https://squishmallowsquad.fandom.com/wiki/Kate)
+10. [Danya (Bunny) 2021](https://squishmallowsquad.fandom.com/wiki/Danya), [Kristina (Cat) 2021](https://squishmallowsquad.fandom.com/wiki/Kristina), [Alizeh (Fox) 2021](https://squishmallowsquad.fandom.com/wiki/Alizeh)
+11. [Amala (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Amala), [Kamili (Sea Pig) 2021](https://squishmallowsquad.fandom.com/wiki/Kamili), [Norbu (Octopus) 2021](https://squishmallowsquad.fandom.com/wiki/Norbu), [Tenzing (Sea Bunny) 2021](https://squishmallowsquad.fandom.com/wiki/Tenzing)
 12. none for now!
-13. Aurora (Unicorn) 2019, Drew (Dragon) 2019
-14. Felicia (Pandacorn) 2019
-15. Kiki (Kangaroo) 2021, Robyne (Rabbit) 2021, Starla (Seahorse) 2020 
-16. Clutch (Axolotl) 2021, Hailey (Bigfoot) 2021
+13. [Aurora (Unicorn) 2019](https://squishmallowsquad.fandom.com/wiki/Aurora), [Drew (Dragon) 2019](https://squishmallowsquad.fandom.com/wiki/Drew)
+14. [Felicia (Pandacorn) 2019](https://squishmallowsquad.fandom.com/wiki/Felicia)
+15. [Kiki (Kangaroo) 2021](https://squishmallowsquad.fandom.com/wiki/Kiki), [Robyne (Rabbit) 2021](https://squishmallowsquad.fandom.com/wiki/Robyne), [Starla (Seahorse) 2020](https://squishmallowsquad.fandom.com/wiki/Starla)
+16. [Clutch (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Clutch), [Hailey (Bigfoot) 2021](https://squishmallowsquad.fandom.com/wiki/Hailey)
 17. none for now!
 18. none for now!
-19. Nathaniel (Dog) 2021
-20. Elanor (Bulldog) 2021
+19. [Nathaniel (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Nathaniel)
+20. [Elanor (Bulldog) 2021](https://squishmallowsquad.fandom.com/wiki/Elanor)
 21. none for now!
-22. Bara (Beaver) 2021
-23. Bashira (Dog) 2021, Zerdan (Dog) 2021
-24. Helena (Unicorn) 2019, Noah (Seal) 2019, Robert (Frog) 2021, Yuri (Yeti) 2020
+22. [Bara (Beaver) 2021](https://squishmallowsquad.fandom.com/wiki/Bara)
+23. [Bashira (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Bashira), [Zerdan (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Zerdan)
+24. [Helena (Unicorn) 2019](https://squishmallowsquad.fandom.com/wiki/Helena), [Noah (Seal) 2019](https://squishmallowsquad.fandom.com/wiki/Noah), [Robert (Frog) 2021](https://squishmallowsquad.fandom.com/wiki/Robert), [Yuri (Yeti) 2020](https://squishmallowsquad.fandom.com/wiki/Yuri)
 25. none for now!
 26. none for now!
 27. none for now!
-28. Belozi (Cow) 2021, Hillary (Bear) 2021, Kavya (Penguin) 2021
-29. Griz (Bulldog) 2021, Lakely (Dinosaur) 2021, Nya (Cheetah) 2021
-30. Avrill (Dragon) 2021, Hasani (Hedgehog) 2021, Nightingale (Cow) 2020
+28. [Belozi (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Belozi), [Hilary (Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Hilary), [Kavya (Penguin) 2021](https://squishmallowsquad.fandom.com/wiki/Kavya)
+29. [Griz (Bulldog) 2021](https://squishmallowsquad.fandom.com/wiki/Griz), [Lakely (Dinosaur) 2021](https://squishmallowsquad.fandom.com/wiki/Lakely), [Nya (Cheetah) 2021](https://squishmallowsquad.fandom.com/wiki/Nya)
+30. [Avrill (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Avrill), [Hasani (Hedgehog) 2021](https://squishmallowsquad.fandom.com/wiki/Hasani), [Nightingale (Cow) 2020](https://squishmallowsquad.fandom.com/wiki/Nightingale)
 
 **July**
 1. Aimee (Chick) 2018, Aina (Unicorn) 2021, Alizeh (Fox) 2021, Charlotte (Cat) 2021, Fern (Fox) 2017, Kyla (Elephant) 2018, Oliver (Cat) 2017, Pam (Pug-Dog) 2018, PJ (Panda) 2018, Seraphina (Unicorn) 2017
