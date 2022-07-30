@@ -1,34 +1,78 @@
-<script type='text/javascript'>
-var isCtrl = false;
-document.onkeyup=function(e)
-{
-if(e.which == 17)
-isCtrl=false;
+DisableCopyPastePlugin.m
+//  DisableCopyPastePlugin
+//
+//  Created by Eidinger, Marco on 05/01/17
+//
+//
+#import "DisableCopyPastePlugin.h"
+#import <Cordova/NSDictionary+CordovaPreferences.h>
+@interface DisableCopyPastePlugin()
+@property (nonatomic,readwrite) BOOL clearClipboardRegistered;
+@end
+@implementation DisableCopyPastePlugin
+- (void)pluginInitialize {
+    [self _init];
 }
-document.onkeydown=function(e)
-{
-if(e.which == 17)
-isCtrl=true;
-if((e.which == 85) || (e.which == 67) &amp;&amp; isCtrl == true)
-{
-// alert(&#8216;Keyboard shortcuts are cool!&#8217;);
-return false;
+#pragma mark -
+#pragma mark public methods
+#pragma mark -
+- (void)start: (CDVInvokedUrlCommand*)command {
+    CDVPluginResult* pluginResult = nil;
+    BOOL started = [self _start];
+    if (started) {
+      pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK  messageAsString:@"Started"];
+      [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
+    } else {
+      pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_ERROR  messageAsString:@"Already started"];
+      return [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
+    }
 }
+- (void)stop: (CDVInvokedUrlCommand*)command {
+    CDVPluginResult* pluginResult = nil;
+    BOOL stopped = [self _stop];
+    if (stopped) {
+      pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK  messageAsString:@"Stopped"];
+      [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
+    } else {
+      pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_ERROR  messageAsString:@"Already stopped"];
+      return [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
+    }
 }
-var isNS = (navigator.appName == &quot;Netscape&quot;) ? 1 : 0;
-if(navigator.appName == &quot;Netscape&quot;) document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
-function mischandler(){
-return false;
+- (void)onReset {
+    [self _stop];
+    [self _init];
 }
-function mousehandler(e){
-var myevent = (isNS) ? e : event;
-var eventbutton = (isNS) ? myevent.which : myevent.button;
-if((eventbutton==2)||(eventbutton==3)) return false;
+#pragma mark -
+#pragma mark private methods
+#pragma mark -
+- (void)_init {
+    CDVViewController *viewController = (CDVViewController*)self.viewController;
+    BOOL appStartPreference = [viewController.settings cordovaBoolSettingForKey:@"disablecopypasteonappstart" defaultValue:NO];
+    if (appStartPreference || [self _doesManagedAppConfigWantsCopyPasteToBeDisabled]) {
+        [self _start];
+    }
 }
-document.oncontextmenu = mischandler;
-document.onmousedown = mousehandler;
-document.onmouseup = mousehandler;
-</script>
+-(void)_clearClipboard {
+    UIPasteboard *pb = [UIPasteboard generalPasteboard];
+    [pb setValue:@"" forPasteboardType:UIPasteboardNameGeneral];
+}
+- (BOOL)_start {
+    if (self.clearClipboardRegistered == YES) {
+      return NO;
+    }
+
+     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(_clearClipboard)
+                                                  name:UIApplicationDidEnterBackgroundNotification object:nil];
+
+     // Feature enhancement: Clear the clipboard even if the App is inactive or terminated/crashed
+     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(_clearClipboard)
+                                                  name:UIApplicationWillResignActiveNotification object:nil];
+     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(_clearClipboard)
+                                                  name:UIApplicationWillTerminateNotification object:nil];
+
+     self.clearClipboardRegistered = YES;
+     return YES;
+ }
 # Squish Dates
 ## All the known squish dates! There may be some repeats because of factory bio errors!
 **ALL WEBSITE LINKS CREDITED TO THE SQUISHMALLOWS WIKI FANDOM MASTER LIST!!!**
