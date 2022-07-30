@@ -1,33 +1,34 @@
 # Squish Dates
 ## All the known squish dates! There may be some repeats because of factory bio errors!
+**ALL WEBSITE LINKS CREDITED TO THE SQUISHMALLOWS WIKI FANDOM MASTER LIST!!!**
 **January**
 1. none for now!
 2. none for now!
 3. none for now!
 4. [Karina (Cat) 2018](https://squishmallowsquad.fandom.com/wiki/Karina)
 5. none for now!
-6. Fenella (Unicorn) 2021, Tula (Bear) 2021, Vanessa (Red Panda) 2021
-7. Amor (Unicorn) 2021, Baiden (Dragon) 2021, Maisha (Beaver) 2021
-8. Carmella (Toucan) 2021, Deidre (Cupcake) 2021, Gustavus (Dog) 2021
-9. King (Stingray) 2021
+6. [Fenella (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Fenella), [Tula (Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Tula0, [Vanessa (Red Panda) 2021](https://squishmallowsquad.fandom.com/wiki/Vanessa)
+7. [Amor (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Amor), [Baiden (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Baiden], [Maisha (Beaver) 2021](https://squishmallowsquad.fandom.com/wiki/Maisha)
+8. [Carmella (Toucan) 2021](https://squishmallowsquad.fandom.com/wiki/Carmella), [Deidre (Cupcake) 2021](https://squishmallowsquad.fandom.com/wiki/Diedre), [Gustavus (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Gustavus)
+9. [King (Stingray) 2021](https://squishmallowsquad.fandom.com/wiki/King)
 10. none for now!
-11. Sunny (Bee-Eyes Closed) 2022
+11. [Sunny (Bee-Eyes Closed) 2022](https://squishmallowsquad.fandom.com/wiki/Sunny)
 12. none for now!
-13. Ramon (Lion) 2021
-14. Lillian (Owl) 2019
-15. Ximena (Mango) 2021
+13. [Ramon (Lion) 2021](https://squishmallowsquad.fandom.com/wiki/Ramon)
+14. [Lillian (Owl) 2019](https://squishmallowsquad.fandom.com/wiki/Lilian)
+15. [Ximena (Mango) 2021](https://squishmallowsquad.fandom.com/wiki/Ximena)
 16. none for now!
 17. none for now!
-18. Carmelita (S'more) 2020
+18. [Carmelita (S'more) 2020](https://squishmallowsquad.fandom.com/wiki/Carmelita)
 19. none for now!
 20. none for now!
-21. Jamal (Cat) 2021
-22. Nikita (Owl) 2021
-23. Hugo (Planet) 2021
-24. Benedict (Hippo) 2022, Jeff (Turtle) 2022
-25. Malia (Seacow) 2022, Mopey (Seacow) 2022
+21. [Jamal (Cat) 2021](https://squishmallowsquad.fandom.com/wiki/Jamal)
+22. [Nikita (Owl) 2021](https://squishmallowsquad.fandom.com/wiki/Nikita)
+23. [Hugo (Planet) 2021](https://squishmallowsquad.fandom.com/wiki/Hugo)
+24. [Benedict (Hippo) 2022](https://squishmallowsquad.fandom.com/wiki/Benedict), [Jeff (Turtle) 2022](https://squishmallowsquad.fandom.com/wiki/Jeff_the_Blue_Turtle)
+25.[ Malia (Seacow) 2022](https://squishmallowsquad.fandom.com/wiki/Malia), [Mopey (Seacow) 2022](https://squishmallowsquad.fandom.com/wiki/Mopey)
 26. none for now!
-27. Len (Franken Bear) 2021
+27. [Len (Franken Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Len)
 28. none for now!
 29. none for now!
 30. none for now!
@@ -389,3 +390,6 @@
 29. Barnabus (Owl) 2020, Barnes (Turtle) 2020, Fania (Owl) 2020, Halima (Fox) 2020, Joaquin (Dragon) 2020, Shay (Squid) 2020
 30. Araminta (Caticorn) 2020, Sunshine (Rainbow) 2020, Vera (Rainbow) 2020
 31. none for now!
+
+Credits:
+“Master List.” Squishmallows Wiki, https://squishmallowsquad.fandom.com/wiki/Master_List. 
