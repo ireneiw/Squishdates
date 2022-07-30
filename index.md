@@ -295,36 +295,36 @@
 30. none for now!
 
 **October**
-1. Lamont (French Bulldog) 2021
-2. Kinsley (Llama Pegacorn) 2020, Rida (Butterfly) 2021
-3. Louden (Goat) 2021
-4. Rachel (Mushroom) 2021
-5. Elda (Ostrich) 2020, Herb (Turtle) 2020
-6. Anca (Unicorn) 2020, Florent (Axolotl) 2021, Luvinia (Dragonfly) 2021
-7. Farice (Ferret) 2021
-8. Chuey (T-rex) 2020, Donnan (Dodo Bird) 2021
-9. Bobzi (Dog) 2021
-10. Maurice (Moose) 2019, Rondah (Highland Cow) 2021, Willy (Wolf) 2019
-11. Antoni (Turtle) 2020, Charity (Chicken) 2019, Zelma (Hippo) 2021
-12. Althea (Axolotl) 2021, Gerard (Bird) 2021, Maritza (Cactus) 2020
-13. Bridgie (Tulip) 2020, Caroleena (Carrot) 2020, Isis (Seal) 2020, Luther (Shark) 2020
-14. Shannon (Ice Cream) 2020
+1. [Lamont (French Bulldog) 2021](https://squishmallowsquad.fandom.com/wiki/Lamont)
+2. [Kinsley (Llama Pegacorn) 2020](https://squishmallowsquad.fandom.com/wiki/Kinsley), [Rida (Butterfly) 2021](https://squishmallowsquad.fandom.com/wiki/Rida)
+3. [Louden (Goat) 2021](https://squishmallowsquad.fandom.com/wiki/Louden)
+4. [Rachel (Mushroom) 2021](https://squishmallowsquad.fandom.com/wiki/Rachel)
+5. [Elda (Ostrich) 2020](https://squishmallowsquad.fandom.com/wiki/Elda), [Herb (Turtle) 2020](https://squishmallowsquad.fandom.com/wiki/Herb)
+6. [Anca (Unicorn) 2020](https://squishmallowsquad.fandom.com/wiki/Anca), [Florent (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Florent), [Luvinia (Dragonfly) 2021](https://squishmallowsquad.fandom.com/wiki/Luvinia)
+7. [Farice (Ferret) 2021](https://squishmallowsquad.fandom.com/wiki/Farice)
+8. [Chuey (T-rex) 2020](https://squishmallowsquad.fandom.com/wiki/Chuey), [Donnan (Dodo Bird) 2021](https://squishmallowsquad.fandom.com/wiki/Donnan)
+9. [Bobzi (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Bobzi)
+10. [Maurice (Moose) 2019](https://squishmallowsquad.fandom.com/wiki/Maurice), [Rondah (Highland Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Rondah), [Willy (Wolf) 2019](https://squishmallowsquad.fandom.com/wiki/Willy)
+11. [Antoni (Turtle) 2020](https://squishmallowsquad.fandom.com/wiki/Antoni), [Charity (Chicken) 2019](https://squishmallowsquad.fandom.com/wiki/Charity), [Zelma (Hippo) 2021](https://squishmallowsquad.fandom.com/wiki/Zelma)
+12. [Althea (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Althea), [Gerard (Bird) 2021](https://squishmallowsquad.fandom.com/wiki/Gerard), [Maritza (Cactus) 2020](https://squishmallowsquad.fandom.com/wiki/Maritza)
+13. [Bridgie (Tulip) 2020](https://squishmallowsquad.fandom.com/wiki/Bridgie), [Caroleena (Carrot) 2020](https://squishmallowsquad.fandom.com/wiki/Caroleena), [Isis (Seal) 2020](https://squishmallowsquad.fandom.com/wiki/Isis), [Luther (Shark) 2020](https://squishmallowsquad.fandom.com/wiki/Luther)
+14. [Shannon (Ice Cream) 2020](https://squishmallowsquad.fandom.com/wiki/Shannon)
 15. none for now!
 16. none for now!
-17. Leonard (Lion) 2019
+17. [Leonard (Lion) 2019](https://squishmallowsquad.fandom.com/wiki/Leonard)
 18. none for now!
 19. none for now!
-20. Vinny (Turtle) 2019
-21. Melani (Fox) 2020, Rolland (Panda) 2021
-22. Gordon (Shark) 2018, Lucille (Seal) 2018, Matt (Manatee) 2018, Sunny (Bee) 2018, Xiomara (Panther) 2020
-23. Fletcher (Pterodactyl) 2020
-24. Giovana (Bunny) 2021, Makena (Unicorn Mermaid) 2020
-25. Chet (Iguana) 2020
+20. [Vinny (Turtle) 2019](https://squishmallowsquad.fandom.com/wiki/Vinny)
+21. [Melani (Fox) 2020](https://squishmallowsquad.fandom.com/wiki/Melani), [Rolland (Panda) 2021](https://squishmallowsquad.fandom.com/wiki/Rolland)
+22. [Gordon (Shark) 2018](https://squishmallowsquad.fandom.com/wiki/Gordon), [Lucille (Seal) 2018](https://squishmallowsquad.fandom.com/wiki/Lucille), [Matt (Manatee) 2018](https://squishmallowsquad.fandom.com/wiki/Matt), [Sunny (Bee) 2018](https://squishmallowsquad.fandom.com/wiki/Sunny), [Xiomara (Panther) 2020](https://squishmallowsquad.fandom.com/wiki/Xiomara)
+23. [Fletcher (Pterodactyl) 2020](https://squishmallowsquad.fandom.com/wiki/Fletcher)
+24. [Giovana (Bunny) 2021](https://squishmallowsquad.fandom.com/wiki/Giovana), [Makena (Unicorn Mermaid) 2020](https://squishmallowsquad.fandom.com/wiki/Makena)
+25. [Chet (Iguana) 2020](https://squishmallowsquad.fandom.com/wiki/Chet)
 26. none for now!
-27. Simone (Shrimp) 2020
+27. [Simone (Shrimp) 2020](https://squishmallowsquad.fandom.com/wiki/Simone)
 28. none for now!
-29. Armie (Highland Cow) 2021, Cazlan (Cardinal) 2020, Sayed (Bunny) 2021
-30. Cherish (Elephant) 2020, Corinna (Cat) 2020, Ludwig (Frog) 2020
+29. [Armie (Highland Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Armie), [Cazlan (Cardinal) 2020](https://squishmallowsquad.fandom.com/wiki/Cazlan), [Sayed (Bunny) 2021](https://squishmallowsquad.fandom.com/wiki/Sayed)
+30. [Cherish (Elephant) 2020](https://squishmallowsquad.fandom.com/wiki/Cherish), [Corinna (Cat) 2020](https://squishmallowsquad.fandom.com/wiki/Corinna), [Ludwig (Frog) 2020](https://squishmallowsquad.fandom.com/wiki/Ludwig)
 31. none for now!
 
 **November**
