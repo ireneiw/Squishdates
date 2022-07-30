@@ -1,5 +1,4 @@
 ‹script type="text/Javascript">
-//courtesy of BoogieJack.com
 function killcopy(e)(
 return false
 function reEnable){
