@@ -66,7 +66,7 @@
 29. none for now!
 
 **March**
-1. Kirk (Koala) 2018, Winston (Owl) 2018
+1. [Kirk (Koala) 2018](https://squishmallowsquad.fandom.com/wiki/Kirk), [Winston (Owl) 2018](https://squishmallowsquad.fandom.com/wiki/Winston)
 2. none for now!
 3. none for now!
 4. none for now!
@@ -75,28 +75,28 @@
 7. none for now!
 8. none for now!
 9. none for now!
-10. Clara (Cupcake) 2020, Dalton (Dragon) 2020
-11. Benny (Bigfoot) 2020, Brina (Bigfoot) 2020, Fiona (Fairy) 2020, Hank (Hippo) 2019, Riley (Dragon) 2020, Tracey (Zebra) 2019, Yollie (Yeti) 2020
-12. Lorenzo (Nutcracker) 2019, Lucy-May (Llama Pegacorn) 2019
-13. Doug (Dog) 2019, Skyler (Skunk) 2019
-14. Nitro (Shark) 2021
+10. [Clara (Cupcake) 2020](https://squishmallowsquad.fandom.com/wiki/Clara), [Dalton (Dragon) 2020](https://squishmallowsquad.fandom.com/wiki/Dalton)
+11. [Benny (Bigfoot) 2020](https://squishmallowsquad.fandom.com/wiki/Benny), [Brina (Bigfoot) 2020](https://squishmallowsquad.fandom.com/wiki/Brina), [Fiona (Fairy) 2020](https://squishmallowsquad.fandom.com/wiki/Fiona), [Hank (Hippo) 2019](https://squishmallowsquad.fandom.com/wiki/Hank), [Riley (Dragon) 2020](https://squishmallowsquad.fandom.com/wiki/Riley), [Tracey (Zebra) 2019](https://squishmallowsquad.fandom.com/wiki/Tracey), [Yollie (Yeti) 2020](https://squishmallowsquad.fandom.com/wiki/Yollie)
+12. [Lorenzo (Nutcracker) 2019](https://squishmallowsquad.fandom.com/wiki/Lorenzo), [Lucy-May (Llama Pegacorn) 2019](https://squishmallowsquad.fandom.com/wiki/Lucy-May)
+13. [Doug (Dog) 2019](https://squishmallowsquad.fandom.com/wiki/Doug), [Skyler (Skunk) 2019](https://squishmallowsquad.fandom.com/wiki/Skyler)
+14. [Nitro (Shark) 2021](https://squishmallowsquad.fandom.com/wiki/Nitro)
 15. none for now!
-16. Skeeter (Skeleton-Bunny) 2020
-17. Donnie (Terrier-Dog) 2020, Fifi (Fox) 2017, Piper (Penguin) 2017
+16. [Skeeter (Skeleton-Bunny) 2020](https://squishmallowsquad.fandom.com/wiki/Skeeter)
+17. [Donnie (Terrier-Dog) 2020](https://squishmallowsquad.fandom.com/wiki/Donnie), [Fifi (Fox) 2017](https://squishmallowsquad.fandom.com/wiki/Fifi), [Piper (Penguin) 2017](https://squishmallowsquad.fandom.com/wiki/Piper)
 18. none for now!
-19. Beula (Octopus) 2020
-20. Vera (Rainbow-Rerelease) 2021
+19. [Beula (Octopus) 2020](https://squishmallowsquad.fandom.com/wiki/Beula)
+20. [Vera (Rainbow-Rerelease) 2021](https://squishmallowsquad.fandom.com/wiki/Vera)
 21. none for now!
 22. none for now!
 23. none for now!
-24. Bernice (Boba) 2020, Carl (Cheeseburger) 2020, Chanel (Cinnamon Roll) 2020, Floyd (French Fry) 2020, Kayla (Koala) 2020, Tex (Taco) 2020,Twyla (Fairy) 2020
+24. [Bernice (Boba) 2020](https://squishmallowsquad.fandom.com/wiki/Bernice), [Carl (Cheeseburger) 2020](https://squishmallowsquad.fandom.com/wiki/Carl), [Chanel (Cinnamon Roll) 2020](https://squishmallowsquad.fandom.com/wiki/Chanel), [Floyd (French Fry) 2020](https://squishmallowsquad.fandom.com/wiki/Floyd), [Kayla (Koala) 2020](https://squishmallowsquad.fandom.com/wiki/Kayla), [Tex (Taco) 2020](https://squishmallowsquad.fandom.com/wiki/Tex), [Twyla (Fairy) 2020](https://squishmallowsquad.fandom.com/wiki/Twyla)
 25. none for now!
-26. Wilfred (Highland Cow) 2021
+26. [Wilfred (Highland Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Wilfred)
 27. none for now!
 28. none for now!
 29. none for now!
 30. none for now!
-31. Norma (Gnome) 2020
+31. [Norma (Gnome) 2020](https://squishmallowsquad.fandom.com/wiki/Norma)
 
 **April**
 1. Norman (Gnome) 2020
