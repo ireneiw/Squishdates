@@ -1,16 +1,4 @@
-‹script type="text/JavaScript">
-function killCopy(e){
-return false
-}
-function reEnable){
-return true
-}
-document.onselectstart=new Function ("return false")
-if (window.sidebar) {
-document.onmousedown=killcopy
-document.onclick=reEnable
-}
-</script>
+<body oncopy="return false" onpaste="return false" oncut="return false">...</body>
 # Squish Dates
 ## All the known squish dates! There may be some repeats because of factory bio errors!
 **ALL WEBSITE LINKS CREDITED TO THE SQUISHMALLOWS WIKI FANDOM MASTER LIST!!!**
