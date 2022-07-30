@@ -1,5 +1,4 @@
 ‹script type="text/JavaScript">
-//courtesy of BoogieJack.com
 function killCopy(e){
 return false
 }
