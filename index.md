@@ -197,70 +197,70 @@
 30. [Avrill (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Avrill), [Hasani (Hedgehog) 2021](https://squishmallowsquad.fandom.com/wiki/Hasani), [Nightingale (Cow) 2020](https://squishmallowsquad.fandom.com/wiki/Nightingale)
 
 **July**
-1. Aimee (Chick) 2018, Aina (Unicorn) 2021, Alizeh (Fox) 2021, Charlotte (Cat) 2021, Fern (Fox) 2017, Kyla (Elephant) 2018, Oliver (Cat) 2017, Pam (Pug-Dog) 2018, PJ (Panda) 2018, Seraphina (Unicorn) 2017
-2. Ramona (Red Panda) 2019, Winnie (Walrus) 2019
+1. [Aimee (Chick) 2018](https://squishmallowsquad.fandom.com/wiki/Aimee), [Aina (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Aina), [Alizeh (Fox) 2021](https://squishmallowsquad.fandom.com/wiki/Alizeh), [Charlotte (Cat) 2021](https://squishmallowsquad.fandom.com/wiki/Charlotte), [Fern (Fox) 2017](https://squishmallowsquad.fandom.com/wiki/Fern), [Kyla (Elephant) 2018](https://squishmallowsquad.fandom.com/wiki/Kyla), [Oliver (Cat) 2017](https://squishmallowsquad.fandom.com/wiki/Oliver), [Pam (Pug-Dog) 2018](https://squishmallowsquad.fandom.com/wiki/Pam), [PJ (Panda) 2018](https://squishmallowsquad.fandom.com/wiki/PJ), [Seraphina (Unicorn) 2017](https://squishmallowsquad.fandom.com/wiki/Seraphina)
+2. [Ramona (Red Panda) 2019](https://squishmallowsquad.fandom.com/wiki/Ramona), [Winnie (Walrus) 2019](https://squishmallowsquad.fandom.com/wiki/Winnie)
 3. none for now!
 4. none for now!
-5. Canda (Fish) 2021
-6. Livvy (Starfish) 2021, Orzella (Octopus) 2021
-7. Belton (Lemon Bear) 2021
-8. Daja (Dolphin) 2019, Dustin (Dalmation-Dog) 2020, Farryn (Fawn) 2020, Ova (Walrus) 2021
-9. Abeline (Ostrich) 2021, Colin (Cow) 2021, Nicole (Caticorn) 2020
-10. Andres (Sheltie-Dog) 2019, Angie (Shiba-Dog) 2019, Mario (German Sheperd-Dog) 2019
+5. [Canda (Fish) 2021](https://squishmallowsquad.fandom.com/wiki/Canda)
+6. [Livvy (Starfish) 2021](https://squishmallowsquad.fandom.com/wiki/Livvy), [Orzella (Octopus) 2021](https://squishmallowsquad.fandom.com/wiki/Orzella)
+7. [Belton (Lemon Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Belton)
+8. [Daja (Dolphin) 2019](https://squishmallowsquad.fandom.com/wiki/Daja), [Dustin (Dalmation-Dog) 2020](https://squishmallowsquad.fandom.com/wiki/Dustin), [Farryn (Fawn) 2020](https://squishmallowsquad.fandom.com/wiki/Farryn), [Ova (Walrus) 2021](https://squishmallowsquad.fandom.com/wiki/Ova)
+9. [Abilene (Ostrich) 2021](https://squishmallowsquad.fandom.com/wiki/Abilene), [Colin (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Colin), [Nicole (Caticorn) 2020](https://squishmallowsquad.fandom.com/wiki/Nicole)
+10. [Andres (Sheltie-Dog) 2019](https://squishmallowsquad.fandom.com/wiki/Andres), [Angie (Shiba-Dog) 2019](https://squishmallowsquad.fandom.com/wiki/Angie), [Mario (German Sheperd-Dog) 2019](https://squishmallowsquad.fandom.com/wiki/Mario)
 11. none for now!
-12. Aron (Gorilla) 2021, Berit (Moth) 2021, Robb (Orangutan) 2021, Thompson (Armadillo) 2021
-13. Adabelle (Strawberry Frog) 2021, Amina (Squirrel) 2020, Archie (Axolotl) 2021, Squaz (Mouse) 2021
-14. Adin (Space Game) 2021, Casja (Walkman) 2021, Galia (Gameboy) 2021, Maline (Capsule Machine) 2021, Rada (Claw Machine) 2021, Tadita (Cell Phone) 2021
-15. Aicha (Seashell) 2021, Bertwin (Bearded Dragon) 2021, Casmir (Husky-Dog) 2021, Ceba (Peacock) 2021, Miranda (Owl) 2020, Bertwin (Bearded Dragon) 2021
-16. Dabria (Donut) 2021, Deeto (African Wild Dog) 2021, Talib (Pterodactyl) 2021
-17. Chip (Beaver) 2019
+12. [Aron (Gorilla) 2021](https://squishmallowsquad.fandom.com/wiki/Aron), [Berit (Moth) 2021](https://squishmallowsquad.fandom.com/wiki/Berit), [Robb (Orangutan) 2021](https://squishmallowsquad.fandom.com/wiki/Robb), [Thompson (Armadillo) 2021](https://squishmallowsquad.fandom.com/wiki/Thompson)
+13. [Adabelle (Strawberry Frog) 2021](https://squishmallowsquad.fandom.com/wiki/Adabelle), [Amina (Squirrel) 2020](https://squishmallowsquad.fandom.com/wiki/Amina), [Archie (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Archie), [Squaz (Mouse) 2021](https://squishmallowsquad.fandom.com/wiki/Squaz)
+14. [Adin (Space Game) 2021](https://squishmallowsquad.fandom.com/wiki/Adin), [Casja (Walkman) 2021](https://squishmallowsquad.fandom.com/wiki/Casja), [Galia (Gameboy) 2021](https://squishmallowsquad.fandom.com/wiki/Galia), [Maline (Capsule Machine) 2021](https://squishmallowsquad.fandom.com/wiki/Maline), [Rada (Claw Machine) 2021](https://squishmallowsquad.fandom.com/wiki/Rada), [Tadita (Cell Phone) 2021](https://squishmallowsquad.fandom.com/wiki/Tadita)
+15. [Aicha (Seashell) 2021](https://squishmallowsquad.fandom.com/wiki/Aicha), [Bertwin (Bearded Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Bertwin), [Casmir (Husky-Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Casmir), [Ceba (Peacock) 2021](https://squishmallowsquad.fandom.com/wiki/Ceba), [Miranda (Owl) 2020](https://squishmallowsquad.fandom.com/wiki/Miranda), 
+16. [Dabria (Donut) 2021](https://squishmallowsquad.fandom.com/wiki/Dabria), [Deeto (African Wild Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Deeto), [Talib (Pterodactyl) 2021](https://squishmallowsquad.fandom.com/wiki/Talib)
+17. [Chip (Beaver) 2019](https://squishmallowsquad.fandom.com/wiki/Chip)
 18. none for now!
-19. Bethuna (Mystical Creature) 2021, Delphine (Axolotl) 2021, Kachina (Kiwi) 2021, Myrna (Griffon) 2021, Zaya (Bear) 2021
-20. Caedyn (Cow) 2021, Celenia (Cat) 2020, Delroy (Dog) 2021
-21. Phoenix (Unicorn) 2020
-22. Obu (Frog) 2021
-23. Balia (Butterfly) 2021, Bronte (Chameleon) 2021, Calais (Chameleon) 2021, Della (Duck) 2021, Kaelea (Koala) 2021, Mary (Octopus) 2020
+19. [Bethuna (Mystical Creature) 2021](https://squishmallowsquad.fandom.com/wiki/Bethuna), [Delphine (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Delphine), [Kachina (Kiwi) 2021](https://squishmallowsquad.fandom.com/wiki/Kachina), [Myrna (Griffon) 2021](https://squishmallowsquad.fandom.com/wiki/Myrna), [Zaya (Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Zaya)
+20. [Caedyn (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Caedyn), [Celenia (Cat) 2020](https://squishmallowsquad.fandom.com/wiki/Celenia), [Delroy (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Delroy)
+21. [Phoenix (Unicorn) 2020](https://squishmallowsquad.fandom.com/wiki/Phoenix)
+22. [Obu (Frog) 2021](https://squishmallowsquad.fandom.com/wiki/Obu)
+23. [Balia (Butterfly) 2021](,https://squishmallowsquad.fandom.com/wiki/Balia) [Bronte (Chameleon) 2021](,https://squishmallowsquad.fandom.com/wiki/Bronte) [Calais (Chameleon) 2021](https://squishmallowsquad.fandom.com/wiki/Calais), [Della (Duck) 2021](https://squishmallowsquad.fandom.com/wiki/Della), [Kaelea (Koala) 2021](https://squishmallowsquad.fandom.com/wiki/Kaelea), [Mary (Octopus) 2020](https://squishmallowsquad.fandom.com/wiki/Mary)
 24. none for now!
 25. none for now!
-26. Evangelica (Cow) 2021
-27. Bambalina (Cat) 2021
-28. Andreina (Butterfly) 2021
-29. Chloeyana (Dog) 2021, Chuy (Dog) 2021
-30. Varity (Husky-Dog) 2021
+26. [Evangelica (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Evangelica)
+27. [Bambalina (Cat) 2021](https://squishmallowsquad.fandom.com/wiki/Bambalina)
+28. [Andreina (Butterfly) 2021](https://squishmallowsquad.fandom.com/wiki/Andreina)
+29. [Chloeyana (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Chloeyana), [Chuy (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Chuy)
+30. [Varity (Husky-Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Varity)
 31. none for now!
 
 **August**
-1. Patty (Cow) 2017
+1. [Patty (Cow) 2017](https://squishmallowsquad.fandom.com/wiki/Patty)
 2. none for now!
-3. Cordess (Caticorn) 2021
-4. Barika (Bearded Dragon) 2021
-5. Candess (Cow) 2021
+3. [Cordess (Caticorn) 2021](https://squishmallowsquad.fandom.com/wiki/Cordess)
+4. [Barika (Bearded Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Barika)
+5. [Candess (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Candess)
 6. none for now!
 7. none for now!
-8. none for now!Brody (Dinosaur) 2018
-9. Lucia (Lemur) 2019, Paco (Parrot) 2019
+8. none for now!
+9. [Lucia (Lemur) 2019](https://squishmallowsquad.fandom.com/wiki/Lucia), [Paco (Parrot) 2019](https://squishmallowsquad.fandom.com/wiki/Paco)
 10. none for now!
-11. Aleka (Axolotl) 2021
-12. Nefen (Gnome) 2021
+11. [Aleka (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Aleka)
+12. [Nefen (Gnome) 2021](https://squishmallowsquad.fandom.com/wiki/Nefen)
 13. none for now!
 14. none for now!
-15. Caedia (Cow) 2021
-16. Cedrick (Chick) 2019
+15. [Caedia (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Caedia)
+16. [Cedrick (Chick) 2019](https://squishmallowsquad.fandom.com/wiki/Cedrick)
 17. none for now!
-18. Palmer (Goat) 2021, Triston (Bird) 2021
-19. Wilfred/Calton (Highland Cow) 2021, Jettward (Poodle) 2021
-20. Sabino (Sugar Glider) 2021
+18. [Palmer (Goat) 2021](https://squishmallowsquad.fandom.com/wiki/Palmer), [Triston (Bird) 2021](https://squishmallowsquad.fandom.com/wiki/Triston)
+19. [Wilfred/Calton (Highland Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Wilfred), [Jettward (Poodle) 2021](https://squishmallowsquad.fandom.com/wiki/Jettward)
+20. [Sabino (Sugar Glider) 2021](https://squishmallowsquad.fandom.com/wiki/Sabino)
 21. none for now!
 22. none for now!
 23. none for now!
 24. none for now!
-25. Ferdie (Frog) 2021, Naddie (Turtle) 2021
+25. [Ferdie (Frog) 2021](https://squishmallowsquad.fandom.com/wiki/Ferdie), [Naddie (Turtle) 2021](https://squishmallowsquad.fandom.com/wiki/Naddie)
 26. none for now!
-27. Justine (Chick) 2021
-28. Calynda (Cow) 2021
-29. Havin (Bee) 2021
-30. Jarrell (DInosaur) 2021
-31. Syana (Fox) 2021
+27. [Justine (Chick) 2021](https://squishmallowsquad.fandom.com/wiki/Justine)
+28. [Calynda (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Calynda)
+29. [Havin (Bee) 2021](https://squishmallowsquad.fandom.com/wiki/Havin)
+30. [Jarrell (DInosaur) 2021](https://squishmallowsquad.fandom.com/wiki/Jarrell)
+31. [Syana (Fox) 2021](https://squishmallowsquad.fandom.com/wiki/Syana)
 
 **September**
 1. Briannika (Peacock) 2021, Dexter (Dragon) 2018, Dobrilla (Bigfoot) 2021, Elsa (Lamb) 2018, Jake (Unicorn) 2018, Violet (Octopus) 2018
