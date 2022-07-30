@@ -328,36 +328,36 @@
 31. none for now!
 
 **November**
-1. Tally (Tabby-Cat) 2020
-2. Aquitaine (Pig) 2021, Griella (Cow) 2021, Keith (Dragon) 2020, Stevon (Dog) 2021
-3. Caeli (Cat) 2020, Eyk (Dragon) 2021, Molly (Mushroom) 2021, Regz (Dog) 2021, Shena (Dog) 2020, Xavier (Mushroom) 2021
-4. Imogen (Owl) 2020
+1. [Tally (Tabby-Cat) 2020](https://squishmallowsquad.fandom.com/wiki/Tally)
+2. [Aquitaine (Pig) 2021](https://squishmallowsquad.fandom.com/wiki/Aquitaine), [Griella (Cow) 2021](https://squishmallowsquad.fandom.com/wiki/Griella), [Keith (Dragon) 2020](https://squishmallowsquad.fandom.com/wiki/Keith_the_Dragon), [Stevon (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Stevon)
+3. [Caeli (Cat) 2020](https://squishmallowsquad.fandom.com/wiki/Caeli), [Eyk (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Eyk), [Molly (Mushroom) 2021](https://squishmallowsquad.fandom.com/wiki/Molly_the_Mushroom), [Regz (Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Regz), [Shena (Dog) 2020](https://squishmallowsquad.fandom.com/wiki/Shena), [Xavier (Mushroom) 2021](https://squishmallowsquad.fandom.com/wiki/Xavier)
+4. [Imogen (Owl) 2020](https://squishmallowsquad.fandom.com/wiki/Imogen)
 5. none for now!
 6. none for now!
-7. Gregory (Goat) 2019, Jason (Donkey) 2019, Winona (Llama Pegacorn) 2020
-8. Arnel (Popcorn) 2021, DeeDee (Seahorse) 2021, Halton (Stingray) 2021, Limell (Frog) 2021, Melly (Milk) 2021, Mony (Butterfly) 2021, Neeona (Cookie) 2021, Winsey (Watermelon) 2021
-9. Bubba (Cow) 2020, Naya (Fox) 2020
-10. Aqua (Sloth) 2020
+7. [Gregory (Goat) 2019](https://squishmallowsquad.fandom.com/wiki/Gregory), [Jason (Donkey) 2019](https://squishmallowsquad.fandom.com/wiki/Jason), [Winona (Llama Pegacorn) 2020](https://squishmallowsquad.fandom.com/wiki/Winona)
+8. [Arnel (Popcorn) 2021](https://squishmallowsquad.fandom.com/wiki/Arnel), [DeeDee (Seahorse) 2021](https://squishmallowsquad.fandom.com/wiki/DeeDee), [Halton (Stingray) 2021](https://squishmallowsquad.fandom.com/wiki/Halton), [Limell (Frog) 2021](https://squishmallowsquad.fandom.com/wiki/Limell), [Melly (Milk) 2021](https://squishmallowsquad.fandom.com/wiki/Melly), [Mony (Butterfly) 2021](https://squishmallowsquad.fandom.com/wiki/Mony), [Neeona (Cookie) 2021](https://squishmallowsquad.fandom.com/wiki/Neeona), [Winsey (Watermelon) 2021](https://squishmallowsquad.fandom.com/wiki/Winsey)
+9. [Bubba (Cow) 2020](https://squishmallowsquad.fandom.com/wiki/Bubba), [Naya (Fox) 2020](https://squishmallowsquad.fandom.com/wiki/Naya)
+10. [Aqua (Sloth) 2020](https://squishmallowsquad.fandom.com/wiki/Aqua)
 11. none for now!
-12. Dandii (Fish) 2021, Felton (Cat) 2021, Francis (Lion) 2018, Irving (Rhino) 2018, Magela (Crab) 2020, Onica (Turtle) 2021
-13. Ben (Dinosaur) 2017, Chasmen (Axolotl) 2021, Owen (Owl) 2017
-14. Chienda (Mammoth) 2021, Erika (Cat) 2020
-15. Bijan (Dumbo Octopus) 2022, Forina (Jellyfish) 2021, Mollie (Unicorn) 2020, Swish (Swordfish) 2021
-16. Galci (Raccoon) 2021, Greggor (Moose) 2021, Kieli (Antelope) 2021, Solina (Owl) 2021, Zan (Gnome) 2020, Zaylee (Bigfoot) 2020
-17. Inez (Pandacorn) 2020, Louisa (Penguin) 2020, Luna (Penguin) 2017, Martina (Fish) 2020, Olga (Octopus) 2020, Rutabaga (Caterpillar) 2020 
-18. Edmund (Pterodactyl) 2020, Rocio (Dinosaur) 2020, Sinclair (Avocado Toast) 2020, Tank (Shark) 2020
-19. Atlas (Unicorn) 2020, Jackie (Tulip) 2020, Jeannie (Tulip) 2020, Leeland (Lime) 2020, Leticia (Lemon) 2020, Malcom (Mushroom) 2020 
-20. Bernardo (Burrito) 2020, Davina (Octocorn) 2020, Grecia (Pegacorn) 2020, Petra (Pig) 2019
-21. Easton (Anglerfish) 2021, Jacinda (Poodle-Dog) 2021, Jett (Dragon) 2020, Luxe (Caticorn) 2020, Maeve (Manatee) 2021, Oshun (Octopus) 2021, Sachie (Whale Shark) 2021
-22. Dabney (Fox) 2021, Esmina (Fairy) 2020
-23. Drow (Dragon) 2021, Gala (Griffon) 2021, Ivanna (Chick) 2020, Yara (Yeti) 2021
-24. Caylee (Caticorn) 2021, Haizley (Hippocorn) 2021, Luxmen (Dragon) 2021
-25. Jerome (Triceratops) 2021
-26. Merritt (Bunnycorn) 2020
-27. Brizla (Frappuccino) 2021
+12. [Dandii (Fish) 2021](https://squishmallowsquad.fandom.com/wiki/Dandii), [Felton (Cat) 2021](https://squishmallowsquad.fandom.com/wiki/Felton), [Francis (Lion) 2018](https://squishmallowsquad.fandom.com/wiki/Francis), [Irving (Rhino) 2018](https://squishmallowsquad.fandom.com/wiki/Irving), [Magela (Crab) 2020](https://squishmallowsquad.fandom.com/wiki/Magela), [Onica (Turtle) 2021](https://squishmallowsquad.fandom.com/wiki/Onica)
+13. [Ben (Dinosaur) 2017](https://squishmallowsquad.fandom.com/wiki/Ben), [Chasmen (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Chasmen), [Owen (Owl) 2017](https://squishmallowsquad.fandom.com/wiki/Owen)
+14. [Chienda (Mammoth) 2021](https://squishmallowsquad.fandom.com/wiki/Chienda), [Erika (Cat) 2020](https://squishmallowsquad.fandom.com/wiki/Erika)
+15. [Bijan (Dumbo Octopus) 2022](https://squishmallowsquad.fandom.com/wiki/Bijan), [Forina (Jellyfish) 2021](https://squishmallowsquad.fandom.com/wiki/Forina), [Mollie (Unicorn) 2020](https://squishmallowsquad.fandom.com/wiki/Mollie), [Swish (Swordfish) 2021](https://squishmallowsquad.fandom.com/wiki/Swish)
+16. [Galci (Raccoon) 2021](https://squishmallowsquad.fandom.com/wiki/Galci), [Greggor (Moose) 2021](https://squishmallowsquad.fandom.com/wiki/Greggor), [Kieli (Antelope) 2021](https://squishmallowsquad.fandom.com/wiki/Kieli), [Solina (Owl) 2021](https://squishmallowsquad.fandom.com/wiki/Solina), [Zan (Gnome) 2020](https://squishmallowsquad.fandom.com/wiki/Zan), [Zaylee (Bigfoot) 2020](https://squishmallowsquad.fandom.com/wiki/Zayley)
+17. [Inez (Pandacorn) 2020](https://squishmallowsquad.fandom.com/wiki/Inez), [Louisa (Penguin) 2020](https://squishmallowsquad.fandom.com/wiki/Louisa), [Luna (Penguin) 2017](https://squishmallowsquad.fandom.com/wiki/Luna), [Martina (Fish) 2020](https://squishmallowsquad.fandom.com/wiki/Martina), [Olga (Octopus) 2020](https://squishmallowsquad.fandom.com/wiki/Olga), [Rutabaga (Caterpillar) 2020](https://squishmallowsquad.fandom.com/wiki/Rutabaga)
+18. [Edmund (Pterodactyl) 2020](https://squishmallowsquad.fandom.com/wiki/Edmund), [Rocio (Dinosaur) 2020](https://squishmallowsquad.fandom.com/wiki/Rocio), [Sinclair (Avocado Toast) 2020](https://squishmallowsquad.fandom.com/wiki/Sinclair), [Tank (Shark) 2020](https://squishmallowsquad.fandom.com/wiki/Tank)
+19. [Atlas (Unicorn) 2020](https://squishmallowsquad.fandom.com/wiki/Atlas), [Jackie (Tulip) 2020](https://squishmallowsquad.fandom.com/wiki/Jackie), [Jeannie (Tulip) 2020](https://squishmallowsquad.fandom.com/wiki/Jeannie), [Leeland (Lime) 2020](https://squishmallowsquad.fandom.com/wiki/Leeland), [Leticia (Lemon) 2020](https://squishmallowsquad.fandom.com/wiki/Leticia), [Malcom (Mushroom) 2020](https://squishmallowsquad.fandom.com/wiki/Malcolm)
+20. [Bernardo (Burrito) 2020](https://squishmallowsquad.fandom.com/wiki/Bernardo), [Davina (Octocorn) 2020](https://squishmallowsquad.fandom.com/wiki/Davina), [Grecia (Pegacorn) 2020](https://squishmallowsquad.fandom.com/wiki/Grecia), [Petra (Pig) 2019](https://squishmallowsquad.fandom.com/wiki/Petra)
+21. [Easton (Anglerfish) 2021](https://squishmallowsquad.fandom.com/wiki/Easton), [Jacinda (Poodle-Dog) 2021](https://squishmallowsquad.fandom.com/wiki/Jacinda), [Jett (Dragon) 2020](https://squishmallowsquad.fandom.com/wiki/Jett), [Luxe (Caticorn) 2020](https://squishmallowsquad.fandom.com/wiki/Luxe), [Maeve (Manatee) 2021](https://squishmallowsquad.fandom.com/wiki/Maeve), [Oshun (Octopus) 2021](https://squishmallowsquad.fandom.com/wiki/Oshun), [Sachie (Whale Shark) 2021](https://squishmallowsquad.fandom.com/wiki/Sachie)
+22. [Dabney (Fox) 2021](https://squishmallowsquad.fandom.com/wiki/Dabney), [Esmina (Fairy) 2020](https://squishmallowsquad.fandom.com/wiki/Esmina)
+23. [Drow (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Drow), [Gala (Griffon) 2021](https://squishmallowsquad.fandom.com/wiki/Gala), [Ivanna (Chick) 2020](https://squishmallowsquad.fandom.com/wiki/Ivanna), [Yara (Yeti) 2021](https://squishmallowsquad.fandom.com/wiki/Yara)
+24. [Caylee (Caticorn) 2021](https://squishmallowsquad.fandom.com/wiki/Caylee), [Haizley (Hippocorn) 2021](https://squishmallowsquad.fandom.com/wiki/Haizley), [Luxmen (Dragon) 2021](https://squishmallowsquad.fandom.com/wiki/Luxmen)
+25. [Jerome (Triceratops) 2021](https://squishmallowsquad.fandom.com/wiki/Jerome)
+26. [Merritt (Bunnycorn) 2020](https://squishmallowsquad.fandom.com/wiki/Merritt)
+27. [Brizla (Frappuccino) 2021](https://squishmallowsquad.fandom.com/wiki/Brizla)
 28. none for now!
 29. none for now!
-30. Chrissy (Dogicorn) 2021, Diana (Butterfly) 2021, Vas (Frog) 2021
+30. [Chrissy (Dogicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Chrissy), [Diana (Butterfly) 2021](https://squishmallowsquad.fandom.com/wiki/Diana), [Vas (Frog) 2021](https://squishmallowsquad.fandom.com/wiki/Vas)
 
 **December**
 1. Bongo (Pug-Dog) 2020, Lola (Unicorn) 2017, Shantira (Pterodactyl) 2020, Tina (Tiger) 2017, Will (Dragon) 2020
