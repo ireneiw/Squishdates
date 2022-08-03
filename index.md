@@ -2,7 +2,7 @@
 ## All the known squish dates! There may be some repeats because of factory bio errors!
 **ALL WEBSITE LINKS CREDITED TO THE SQUISHMALLOWS WIKI FANDOM MASTER LIST!!!**
 
-(This was a self-made project that took a while to complete, so if anyone would be willing to donate here's my Venmo: @irenee-i)
+(This was a self-made project that took a while to complete, so if anyone would be willing to donate here's my Venmo: @irenee-i It's definitely not obligatory!!! Just hope this website is of some use to collectors :))
 
 **January**
 1. none for now!
