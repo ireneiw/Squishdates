@@ -39,7 +39,7 @@
 
 **February**
 1. none for now!
-2. [Petey (Pirate) 2020](https://squishmallowsquad.fandom.com/wiki/Petey)
+2. none for now!
 3. none for now!
 4. [Ash (Otter) 2022](https://squishmallowsquad.fandom.com/wiki/Ash), [Mav (Shark) 2022](https://squishmallowsquad.fandom.com/wiki/Mav)
 5. [Bernie (Saint Bernard-Dog) 2019](https://squishmallowsquad.fandom.com/wiki/Bernie)
@@ -57,7 +57,7 @@
 17. none for now!
 18. none for now!
 19. none for now!
-20. [Callista (Ghost Caticorn) 2020](https://squishmallowsquad.fandom.com/wiki/Callista), [Casey (Candy Corn Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Casey), [Scrapper (Skeleton Dog) 2020](https://squishmallowsquad.fandom.com/wiki/Scrapper), [Stix (Skeleton) 2020](https://squishmallowsquad.fandom.com/wiki/Stix), [Terry (Turkey) 2020](https://squishmallowsquad.fandom.com/wiki/Terry), [Vince (Vampire) 2020](https://squishmallowsquad.fandom.com/wiki/Vince), [Vlad (Vampire) 2020](https://squishmallowsquad.fandom.com/wiki/Vlad), [Wade (Werewolf) 2020](https://squishmallowsquad.fandom.com/wiki/Wade), [Whitney (Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Whitney), [Wilma (Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Wilma), [Winnie (Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Winnie_the_Witch)
+20. [Callista (Ghost Caticorn) 2020](https://squishmallowsquad.fandom.com/wiki/Callista), [Casey (Candy Corn Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Casey), [Scrapper (Skeleton Dog) 2020](https://squishmallowsquad.fandom.com/wiki/Scrapper), [Stix (Skeleton) 2020](https://squishmallowsquad.fandom.com/wiki/Stix), [Terry (Turkey) 2020](https://squishmallowsquad.fandom.com/wiki/Terry), [Vince (Vampire) 2020](https://squishmallowsquad.fandom.com/wiki/Vince), [Vlad (Vampire) 2020](https://squishmallowsquad.fandom.com/wiki/Vlad), [Wade (Werewolf) 2020](https://squishmallowsquad.fandom.com/wiki/Wade), [Whitney (Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Whitney), [Wilma (Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Wilma), [Winnie (Witch) 2020](https://squishmallowsquad.fandom.com/wiki/Winnie_the_Witch), [Petey (Pirate) 2020](https://squishmallowsquad.fandom.com/wiki/Petey)
 21. none for now!
 22. none for now!
 23. none for now!
