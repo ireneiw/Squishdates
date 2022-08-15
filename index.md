@@ -30,8 +30,8 @@
 23. [Hugo (Planet) 2021](https://squishmallowsquad.fandom.com/wiki/Hugo)
 24. [Benedict (Hippo) 2022](https://squishmallowsquad.fandom.com/wiki/Benedict), [Jeff (Turtle) 2022](https://squishmallowsquad.fandom.com/wiki/Jeff_the_Blue_Turtle)
 25.[ Malia (Seacow) 2022](https://squishmallowsquad.fandom.com/wiki/Malia), [Mopey (Seacow) 2022](https://squishmallowsquad.fandom.com/wiki/Mopey)
-26. none for now!
-27. [Len (Franken Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Len)
+26. [Len (Franken Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Len)
+27. none for now!
 28. none for now!
 29. none for now!
 30. none for now!
