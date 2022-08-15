@@ -7,7 +7,7 @@
 **January**
 1. none for now!
 2. none for now!
-3. [Hal (Dinosaur) 2022](https://squishmallowsquad.fandom.com/wiki/Hal)
+3. [Hal (Dinosaur) 2022](https://squishmallowsquad.fandom.com/wiki/Hal), [Oakley (Wolf) 2022](https://squishmallowsquad.fandom.com/wiki/Oakley)
 4. [Karina (Cat) 2018](https://squishmallowsquad.fandom.com/wiki/Karina)
 5. none for now!
 6. [Fenella (Unicorn) 2021](https://squishmallowsquad.fandom.com/wiki/Fenella), [Tula (Bear) 2021](https://squishmallowsquad.fandom.com/wiki/Tula), [Vanessa (Red Panda) 2021](https://squishmallowsquad.fandom.com/wiki/Vanessa)
