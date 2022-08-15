@@ -301,7 +301,7 @@
 2. [Kinsley (Llama Pegacorn) 2020](https://squishmallowsquad.fandom.com/wiki/Kinsley), [Rida (Butterfly) 2021](https://squishmallowsquad.fandom.com/wiki/Rida)
 3. [Louden (Goat) 2021](https://squishmallowsquad.fandom.com/wiki/Louden)
 4. [Rachel (Mushroom) 2021](https://squishmallowsquad.fandom.com/wiki/Rachel)
-5. [Elda (Ostrich) 2020](https://squishmallowsquad.fandom.com/wiki/Elda), [Herb (Turtle) 2020](https://squishmallowsquad.fandom.com/wiki/Herb)
+5. [Elda (Ostrich) 2020](https://squishmallowsquad.fandom.com/wiki/Elda), [Herb (Turtle) 2020](https://squishmallowsquad.fandom.com/wiki/Herb), [Avery (Fuzzamallow Duck) 2021], [Monica (Fuzzamallow (Axolotl) 2021], [Sophie (Fuzzamallow Sheep) 2021], [Karina (Fuzzamallow Cat) 2021], [Tatiana (Fuzzamallow Dragon) 2021], [Ophelia (Fuzzamallow Octopus) 2021], [Paisley (Fuzzamallow Unicorn) 2021], [Cyra (Fuzzamallow Crab) 2021]
 6. [Anca (Unicorn) 2020](https://squishmallowsquad.fandom.com/wiki/Anca), [Florent (Axolotl) 2021](https://squishmallowsquad.fandom.com/wiki/Florent), [Luvinia (Dragonfly) 2021](https://squishmallowsquad.fandom.com/wiki/Luvinia)
 7. [Farice (Ferret) 2021](https://squishmallowsquad.fandom.com/wiki/Farice)
 8. [Chuey (T-rex) 2020](https://squishmallowsquad.fandom.com/wiki/Chuey), [Donnan (Dodo Bird) 2021](https://squishmallowsquad.fandom.com/wiki/Donnan)
